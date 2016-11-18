@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DCD7BCBD-B71B-284E-B755-EBC2C260FB93}") = "FPS_VR_Project", "Assembly-CSharp.csproj", "{07ACDCA7-0083-CC69-07B7-09DEAAEEEA12}"
+EndProject
+Project("{DCD7BCBD-B71B-284E-B755-EBC2C260FB93}") = "FPS_VR_Project", "Assembly-CSharp-Editor.csproj", "{90574F3F-D91A-1E58-15A4-F522F0939992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07ACDCA7-0083-CC69-07B7-09DEAAEEEA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07ACDCA7-0083-CC69-07B7-09DEAAEEEA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07ACDCA7-0083-CC69-07B7-09DEAAEEEA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07ACDCA7-0083-CC69-07B7-09DEAAEEEA12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90574F3F-D91A-1E58-15A4-F522F0939992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90574F3F-D91A-1E58-15A4-F522F0939992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90574F3F-D91A-1E58-15A4-F522F0939992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90574F3F-D91A-1E58-15A4-F522F0939992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
