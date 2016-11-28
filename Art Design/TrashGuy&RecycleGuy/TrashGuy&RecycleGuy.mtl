@@ -1,0 +1,62 @@
+# Exported from Fuse 1.3.0
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd TrashGuy&RecycleGuy_Top_diffuse.png
+map_Ks TrashGuy&RecycleGuy_Top_specular.png
+bump TrashGuy&RecycleGuy_Top_normal.png
+map_Ns TrashGuy&RecycleGuy_Top_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd TrashGuy&RecycleGuy_Bottom_diffuse.png
+map_Ks TrashGuy&RecycleGuy_Bottom_specular.png
+bump TrashGuy&RecycleGuy_Bottom_normal.png
+map_Ns TrashGuy&RecycleGuy_Bottom_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd TrashGuy&RecycleGuy_Body_diffuse.png
+map_Ks TrashGuy&RecycleGuy_Body_specular.png
+bump TrashGuy&RecycleGuy_Body_normal.png
+map_Ns TrashGuy&RecycleGuy_Body_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd TrashGuy&RecycleGuy_Shoes_diffuse.png
+map_Ks TrashGuy&RecycleGuy_Shoes_specular.png
+bump TrashGuy&RecycleGuy_Shoes_normal.png
+map_Ns TrashGuy&RecycleGuy_Shoes_gloss.png
+
+newmtl Hat
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd TrashGuy&RecycleGuy_Hat_diffuse.png
+map_Ks TrashGuy&RecycleGuy_Hat_specular.png
+bump TrashGuy&RecycleGuy_Hat_normal.png
+map_Ns TrashGuy&RecycleGuy_Hat_gloss.png
+
